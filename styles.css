@@ -16,7 +16,7 @@
 }
 
 html, body{
-    font-size: 15px;
+    font-size: 0.938rem;
     font-family: "Poppins", sans-serif;
     background-color: var(--white);
 }
@@ -131,7 +131,7 @@ h2{
     background-size: 60px 60px;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 43.75rem) {
     .card-section {
         display: grid;
         grid-template-columns: 1fr;
